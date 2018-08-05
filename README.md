@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/adamberry/SentryWebsite/blob/master/style/images/java_app/logo_white_thumb.png">
+  <img src="https://github.com/adamberry/SentryWebsite/blob/master/style/images/java_app/logo_white_square.png">
 </p>
 
 # Sentry Website
