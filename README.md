@@ -3,7 +3,15 @@
 </p>
 
 # SentryWebsite
-Sentry is a Bluetooth controlled lock system utilizing Bluetooth to trigger a linear actuator via a TI MSP430 micro-controller. This repository contains the marketing page, project plans, and schematics for the project as well as decriptions and source code for both the Android and the C applications.
+Sentry is a Bluetooth controlled lock system utilizing Bluetooth to trigger a linear actuator via a TI MSP430 micro-controller. This repository contains:
+
+- the HTML, CSS, and JS for the marketing page
+- Project proposals & plans
+- Hardware bill of materials
+- Hardware schematics
+- Source code for the embedded system application in C
+- Source code for the Android application in Java
+- Photos
 
 
 <p align="center">
